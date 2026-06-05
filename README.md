@@ -6,16 +6,15 @@
 
 I prefer to be called <strong>Gabriele</strong>, but online I'm also known as <strong>ItsGabbooo</strong>.
 
-I'm a <strong>developer from Campania, Italy</strong>, passionate about backend, game servers and infrastructure.  
-I love working with <strong>Java</strong> and <strong>Python</strong>, and I spend a lot of time optimizing <strong>VPS</strong>, Linux servers and Minecraft environments.
+I'm a <strong>Minecraft plugins developer from Campania, Italy</strong>, obsessed with game servers, performance and code quality.  
+I live and breathe <strong>Java</strong> and <strong>Python</strong>, building custom plugins, optimizing Minecraft servers and tweaking VPS so everything runs buttery smooth.
 
-I attend an <strong>IT high school</strong> and in my free time I work on personal projects, Minecraft plugins/servers and experiment with new tools, frameworks and Linux setups.  
-You’ll soon find more about me and my projects on my <strong>portfolio</strong>: <em>Maintenance</em>.
+I attend an <strong>IT high school</strong> and in my free time I work on my own plugins, Minecraft servers, and I experiment with new tools, frameworks and Linux setups.  
+You’ll soon find more about me and my plugins/projects on my <strong>portfolio</strong>: <em>Maintenance</em>.
 
-- 🌱 I’m currently learning <strong>Java (advanced) and Python</strong>
-- 🖥️ I manage <strong>VPS and Linux servers</strong>
-- 👨‍💻 Some of my projects are available on GitHub (more coming soon)
-- 📫 How to reach me: <strong>cuzproject@tuta.io</strong>
+- 🌱 I’m currently mastering <strong>Java and Python</strong> to write faster, cleaner Minecraft plugins
+- 🖥️ I manage <strong>VPS and Linux servers</strong> for game servers, panels and custom networking
+- 👨‍💻 Some of my plugins and projects are available on GitHub (more coming soon)
 - 💬 Discord: <strong>pb0u</strong>
 
 ---
@@ -24,7 +23,7 @@ You’ll soon find more about me and my projects on my <strong>portfolio</strong
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,py,mysql,sqlite,mongodb,nginx,linux,docker,git,ps" />
+    <img src="https://skillicons.dev/icons?i=python,java" />
   </a>
 </p>
 
@@ -33,9 +32,7 @@ You’ll soon find more about me and my projects on my <strong>portfolio</strong
 ### 🌐 Social & Communities
 
 - 💬 Discord: <strong>pb0u</strong>
-- 🕹️ Minecraft & game servers: GravityMC
-
-[![discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/shadesmc)
+- 🕹️ Minecraft & game servers: [GravityMC]([https://discord.gg/gravitymc](https://discord.gg/uGq4Cpm3WW))
 
 ---
 
