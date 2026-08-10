@@ -32,7 +32,7 @@ You’ll soon find more about me and my plugins/projects on my <strong>portfolio
 ### 🌐 Social & Communities
 
 - 💬 Discord: <strong>pb0u</strong>
-- 🕹️ Minecraft & game servers: [GravityMC]([https://discord.gg/gravitymc](https://discord.gg/uGq4Cpm3WW))
+- 🕹️ Minecraft & game servers: [ElysiaNet]([https://discord.elysianet.eu](https://discord.gg/j8Fgbp2M7V))
 
 ---
 
