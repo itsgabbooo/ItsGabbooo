@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm <span style="color:#00BFFF;">Gabriele</span> 👋</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itsgabbooo&label=Profile%20views&color=0e75b6&style=flat" alt="itsgabbooo" />
+  <img src="https://komarev.com/ghpvc/?username=itsgabbooo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p>
@@ -68,38 +68,40 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=itsgabbooo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=itsgabbooo&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Gabriele's GitHub stats"
+    alt="Gabriele's GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgabbooo&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Gabriele's top languages"
+    alt="Gabriele's Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=itsgabbooo&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=itsgabbooo&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Gabriele's GitHub streak"
+    alt="Gabriele's GitHub Streak"
   />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 🛠️ Projects
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itsgabbooo&theme=tokyo-night&hide_border=true"
-    alt="Gabriele's contribution graph"
-  />
+  <strong>🚀 ZestyNetwork</strong><br>
+  My main Minecraft project, focused on creating a unique and optimized server experience.
 </p>
 
 ---
 
 <p align="center">
   <strong>💻 Code. Build. Optimize. Repeat.</strong>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
