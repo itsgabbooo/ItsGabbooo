@@ -14,12 +14,8 @@
 </p>
 
 <p>
-  I'm currently attending an <strong>IT high school</strong>, and in my free time I work on my own plugins, Minecraft servers and various programming projects.
+  I'm currently attending an <strong>IT high school</strong>, and in my free time I work on my own plugins, Minecraft servers and programming projects.
   I also enjoy experimenting with new tools, frameworks, Linux environments and server infrastructure.
-</p>
-
-<p>
-  You can find more about me, my projects and my plugins on my portfolio — <strong>Maintenance</strong>.
 </p>
 
 ---
@@ -36,9 +32,9 @@
 
 ### 🚀 What I'm Working On
 
-* 🌱 Improving my <strong>Java & Python</strong> skills to build faster, cleaner and more efficient software
-* ⚡ Building and optimizing <strong>Minecraft plugins</strong>
-* 🖥️ Managing <strong>VPS & Linux servers</strong> for game servers, panels and custom infrastructure
+* 🌱 Improving my <strong>Java & Python</strong> skills
+* ⚡ Building fast, clean and optimized <strong>Minecraft plugins</strong>
+* 🖥️ Managing <strong>VPS & Linux servers</strong>
 * 🧩 Developing my own <strong>Minecraft projects and tools</strong>
 * 🚀 Working on <strong>ZestyNetwork</strong>, my main Minecraft project
 * 🔧 Experimenting with new technologies, frameworks and server setups
@@ -68,32 +64,24 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=itsgabbooo&show_icons=true&theme=tokyonight&hide_border=true"
+    src="./profile/stats.svg"
     height="180"
     alt="Gabriele's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsgabbooo&layout=compact&theme=tokyonight&hide_border=true"
+    src="./profile/top-langs.svg"
     height="180"
     alt="Gabriele's Top Languages"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=itsgabbooo&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Gabriele's GitHub Streak"
-  />
-</p>
-
 ---
 
-### 🛠️ Projects
+### 🚀 Featured Project
 
 <p align="center">
-  <strong>🚀 ZestyNetwork</strong><br>
-  My main Minecraft project, focused on creating a unique and optimized server experience.
+  <strong>ZestyNetwork</strong><br>
+  My main Minecraft project, focused on creating a unique, optimized and enjoyable server experience.
 </p>
 
 ---
