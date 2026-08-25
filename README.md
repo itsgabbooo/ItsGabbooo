@@ -31,8 +31,8 @@ You’ll soon find more about me and my plugins/projects on my <strong>portfolio
 
 ### 🌐 Social & Communities
 
-- 💬 Discord: <strong>pb0u</strong>
-- 🕹️ Minecraft & game servers: [ElysiaNet]([https://discord.elysianet.eu](https://discord.gg/j8Fgbp2M7V))
+- 💬 Discord: <strong>apprendimento</strong>
+- 🕹️ Minecraft & game servers: [ZetsyNetwork]([https://discord.zetsy.eu])
 
 ---
 
