@@ -56,7 +56,7 @@
 ### 🌐 Social & Communities
 
 * 💬 Discord: <strong>apprendimento</strong>
-* 🕹️ Minecraft: <strong>ZestyNetwork</strong>
+* 🕹️ Minecraft: <strong>???</strong>
 
 ---
 
