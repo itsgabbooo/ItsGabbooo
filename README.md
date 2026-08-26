@@ -36,7 +36,7 @@
 * ⚡ Building fast, clean and optimized <strong>Minecraft plugins</strong>
 * 🖥️ Managing <strong>VPS & Linux servers</strong>
 * 🧩 Developing my own <strong>Minecraft projects and tools</strong>
-* 🚀 Working on <strong>ZestyNetwork</strong>, my main Minecraft project
+* 🚀 Working on <strong>???</strong>, my main Minecraft project
 * 🔧 Experimenting with new technologies, frameworks and server setups
 
 ---
