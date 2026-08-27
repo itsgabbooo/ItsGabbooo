@@ -80,7 +80,7 @@
 ### 🚀 Featured Project
 
 <p align="center">
-  <strong>ZestyNetwork</strong><br>
+  <strong>???</strong><br>
   My main Minecraft project, focused on creating a unique, optimized and enjoyable server experience.
 </p>
 
