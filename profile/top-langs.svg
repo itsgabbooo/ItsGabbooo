@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="90"
-        viewBox="0 0 300 90"
+        height="115"
+        viewBox="0 0 300 115"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -120,7 +120,49 @@
           
     <svg data-testid="lang-items" x="25">
       
-    <text x="0" y="11" class="stat bold" fill="#38bdae">No languages data.</text>
+  
+      <mask id="rect-mask">
+          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+        </mask>
+        
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="0"
+          y="0"
+          width="249.73"
+          height="8"
+          fill="#b07219"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.73"
+          y="0"
+          width="10.27"
+          height="8"
+          fill="#89e051"
+        />
+      
+      
+    <g transform="translate(0, 25)">
+      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#b07219" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Java 99.89%
+      </text>
+    </g>
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#89e051" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Shell 0.11%
+      </text>
+    </g>
+  </g></g>
+    </g>
   
     </svg>
   
